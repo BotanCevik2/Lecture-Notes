@@ -1,12 +1,12 @@
 # Lecture-Notes
-**Description**
+**Description** \\
 This course is an advanced introduction to numerical linear algebra and related numerical methods. 
 Topics include direct and iterative methods for linear systems, eigenvalue decompositions and QR/SVD factorizations, 
 stability and accuracy of numerical algorithms, the IEEE floating-point standard, sparse and structured matrices, and linear algebra software. 
 Other topics may include memory hierarchies and the impact of caches on algorithms, nonlinear optimization, numerical integration, FFTs, and sensitivity analysis. 
 Problem sets will involve the use of Julia, a MATLAB®-like environment (little or no prior experience required; you will learn as you go).
 
-Required Textbook
+**Required Textbook**
 Trefethen, Lloyd N. and David Bau III. Numerical Linear Algebra. SIAM: Society for Industrial and Applied Mathematics, 1997. ISBN: 9780898713619.
 
 Additional Readings

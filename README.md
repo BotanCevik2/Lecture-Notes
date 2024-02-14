@@ -1,5 +1,6 @@
 # Lecture-Notes
-**Description**   return
+**Description**  
+
 This course is an advanced introduction to numerical linear algebra and related numerical methods. 
 Topics include direct and iterative methods for linear systems, eigenvalue decompositions and QR/SVD factorizations, 
 stability and accuracy of numerical algorithms, the IEEE floating-point standard, sparse and structured matrices, and linear algebra software. 
